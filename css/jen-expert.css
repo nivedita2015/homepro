@@ -1,0 +1,55 @@
+.right-container{
+    width: 100%;
+}
+
+.left-container{
+    padding-right: 40px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.comments-section{
+    padding-top: 20px;
+}
+
+.inner-page .testimonial-content {
+    margin-bottom: 15px;
+}
+
+.inner-page .testimonial-content .testimonial-item {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.expert-member{
+    margin-top: 30px;
+}
+
+.expert-container{
+    padding: 5px;
+}
+
+.inner-page .testimonial-content .testimonial-item {
+    max-width: 465px;
+}
+
+.expert-content{
+    padding: 10px;
+}
+
+.expert-intro{
+    padding: 20px;
+    margin: 15px;
+}
+
+.expert-intro-answer{
+    padding-top: 10px;
+}
+
+.member-content{
+    padding: 20px;
+}
+
+.form-horizontal{
+    padding-top: 10px;
+}
